@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.Parcial"
+  DTS:DTSID="{1F3889CC-2CB5-4082-8D82-F42CF9C79F05}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=Parcial;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-ParcialAtanacioFlores-{1F3889CC-2CB5-4082-8D82-F42CF9C79F05}LocalHost.Parcial;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
